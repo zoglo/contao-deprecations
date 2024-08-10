@@ -1,14 +1,14 @@
 # contao/installation-bundle deprecations (4.13)
 
 ## Bundles
-- [calendar-bundle](calendar-bundle#deprecations)
-- [core-bundle](core-bundle#deprecations)
-- [comments-bundle](comments-bundle#deprecations)
-- [faq-bundle](faq-bundle#deprecations)
-- [installation-bundle](installation-bundle#deprecations)
-- [manager-bundle](manager-bundle#deprecations)
-- [news-bundle](news-bundle#deprecations)
-- [newsletter-bundle](newsletter-bundle#deprecations)
+- [calendar-bundle](calendar-bundle.md#deprecations)
+- [core-bundle](core-bundle.md#deprecations)
+- [comments-bundle](comments-bundle.md#deprecations)
+- [faq-bundle](faq-bundle.md#deprecations)
+- [installation-bundle](installation-bundle.md#deprecations)
+- [manager-bundle](manager-bundle.md#deprecations)
+- [news-bundle](news-bundle.md#deprecations)
+- [newsletter-bundle](newsletter-bundle.md#deprecations)
 
 ____
 
